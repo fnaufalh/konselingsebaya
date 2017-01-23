@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto-Light.ttf') format('truetype');
+}
+
+p {
+    text-indent: 25px;
+    text-align:justify;
+}
+
+#brand-logo {
+	margin-left:10px;
+}
+
+/*.slider {
+	margin-top:100px;
+}*/
+
+.title-cust {
+	padding-top:30px;
+}
+.h6-cust {
+	font-size: 1.64rem;
+}
+
+.left-space-10px {
+	margin-left: 10px;
+}
+
+.top-space-30px {
+	margin-top:30px;
+}
+
+nav ul a, .grey-text {
+	color:white;	
+}
+
+a {
+	color:#558b2f;
+}
